@@ -39,8 +39,15 @@ Project	Description	Stack
 💬 Prompt Engineering for AI
 
 📫 Let’s Connect!
-<p align="left"> <a href="https://linkedin.com/in/edwin-adams-v-a1418b263" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /> </a> <a href="https://github.com/EDWIN-ADAMS-V" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /> </a> <a href="mailto:edwinmontfort2005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /> </a> </p>
-💬 Quote I Live By
-"Your work is going to fill a large part of your life... and the only way to do great work is to love what you do." – Steve Jobs
+<p align="left"> 
+  <a href="https://linkedin.com/in/edwin-adams-v-a1418b263" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a> 
+  <a href="https://github.com/EDWIN-ADAMS-V" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+  </a> 
+  <a href="mailto:edwinmontfort2005@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a> 
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EDWIN-ADAMS-V&show_icons=true&theme=radical" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=EDWIN-ADAMS-V&theme=highcontrast" /> </p> ```
