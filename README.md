@@ -38,10 +38,12 @@ Project	Description	Stack
 
 💬 Prompt Engineering for AI
 
+---
+
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/edwin-adams-v-a1418b263)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/EDWIN-ADAMS-V)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinmontfort2005@gmail.com)
 
-
+---
